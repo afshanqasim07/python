@@ -1,2 +1,4 @@
-for i in range(2,22,2):
-#     print(i)
+def greet(name):
+#     print("hello",name)
+
+# greet(input("enter your name:"))
