@@ -4,7 +4,7 @@
 # except ValueError:
 #     print("enter the age number only")
 try:
-     with open ("my_note.txt" ,"r") as file:
+     with open ("my_notes.txt" ,"r") as file:
         print("FILE EXIST")
 except FileNotFoundError:
     print("NO DATASET EXIST")

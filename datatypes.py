@@ -9,4 +9,5 @@ mobile = {
     "result": None
 }
 
+
 print(mobile)

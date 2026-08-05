@@ -17,8 +17,8 @@ b = 15
 # print(a>b)
 # print(a<b)
 # logical
-print(a>b and b<a)
-print(a>b or a<b)
+# print(a>b and b<a)
+# print(a>b or a<b)
 print(not(a>b or b<a))
 
 # membership operators
